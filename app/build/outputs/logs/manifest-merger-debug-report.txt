@@ -1,10 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b246a2be7e45d89a2b4612708bd6dd28\appcenter-analytics-3.2.2\AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\20c67e852f6ea46c820b68bca866aa29\appcenter-crashes-3.2.2\AndroidManifest.xml:6:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\4cfeff0bc9f503ee2b795fb4a8ab6fd2\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:6:1-18:12
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b057bbf4060f68646dc869e315d5112f\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\708fffe2e24b85a49b1042a6d23a8e0c\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\724778dc9c3559ee0dee30b74815d9ad\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
@@ -12,53 +15,59 @@ MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Jorge\
 MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\db862390f4310644a06a979e7ede3699\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\00f9069cd76b7bfd02a0d2bbe6881315\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\a3d997d6ac573db99c8e377ca342afcc\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
 	package
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:1:1-17:12
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:2:5-63
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:2:5-63
 application
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:4:3-16:17
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:4:3-16:17
 	android:label
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:5:7-39
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:5:7-39
 	android:icon
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:6:7-41
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:6:7-41
 	android:theme
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:7:7-38
 activity#com.sqisland.android.espresso.hello.MainActivity
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:8:5-15:16
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:8:5-15:16
 	android:label
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:10:9-41
 	android:name
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:9:9-37
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:9:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:11:7-14:23
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:11:7-14:23
 action#android.intent.action.MAIN
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:12:9-60
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:9-60
 	android:name
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:12:17-58
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:17-58
 category#android.intent.category.LAUNCHER
-ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:13:9-68
+ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:9-68
 	android:name
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:13:19-66
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:19-66
 uses-sdk
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b246a2be7e45d89a2b4612708bd6dd28\appcenter-analytics-3.2.2\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b246a2be7e45d89a2b4612708bd6dd28\appcenter-analytics-3.2.2\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\20c67e852f6ea46c820b68bca866aa29\appcenter-crashes-3.2.2\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\20c67e852f6ea46c820b68bca866aa29\appcenter-crashes-3.2.2\AndroidManifest.xml:11:5-13:41
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\4cfeff0bc9f503ee2b795fb4a8ab6fd2\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\4cfeff0bc9f503ee2b795fb4a8ab6fd2\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:11:5-13:41
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b057bbf4060f68646dc869e315d5112f\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\b057bbf4060f68646dc869e315d5112f\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\708fffe2e24b85a49b1042a6d23a8e0c\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
@@ -73,13 +82,21 @@ MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jorge\.gradle\c
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\00f9069cd76b7bfd02a0d2bbe6881315\support-compat-27.0.2\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\a3d997d6ac573db99c8e377ca342afcc\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\a3d997d6ac573db99c8e377ca342afcc\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
-		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		ADDED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+		INJECTED from F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:3.2.2] C:\Users\Jorge\.gradle\caches\transforms-2\files-2.1\c8ad818e6be0685bc8620984521581b0\appcenter-3.2.2\AndroidManifest.xml:16:22-76

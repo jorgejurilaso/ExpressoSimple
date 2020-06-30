@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\03-2020-Mis-Clientes\\01-Testing-Espresso\\Ex_Files_Android_Espresso_EssT\\Exercise Files\\Ch02\\02_11\\End\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "F:\\03-2020-Mis-Clientes\\01-Testing-Espresso\\ExpressoSimple\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jorge\\.gradle\\caches\\transforms-2\\files-2.1\\00f9069cd76b7bfd02a0d2bbe6881315\\support-compat-27.0.2\\res\\values-zu\\values-zu.xml",

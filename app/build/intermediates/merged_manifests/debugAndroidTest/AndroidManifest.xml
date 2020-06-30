@@ -3,7 +3,7 @@
     package="com.sqisland.android.espresso.hello.test" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="25"
         android:targetSdkVersion="27" />
 
     <instrumentation
@@ -13,7 +13,9 @@
         android:label="Tests for com.sqisland.android.espresso.hello"
         android:targetPackage="com.sqisland.android.espresso.hello" />
 
-    <application android:debuggable="true" >
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false" >
         <uses-library android:name="android.test.runner" />
     </application>
 
