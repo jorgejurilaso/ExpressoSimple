@@ -25,26 +25,25 @@
 17-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:6:7-41
 18        android:label="@string/app_name"
 18-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:5:7-39
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:7:7-38
-21        <activity
-21-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:8:5-15:16
-22            android:name="com.sqisland.android.espresso.hello.MainActivity"
-22-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:9:9-37
-23            android:label="@string/app_name" >
-23-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:10:9-41
-24            <intent-filter>
-24-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:11:7-14:23
-25                <action android:name="android.intent.action.MAIN" />
-25-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:9-60
-25-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:17-58
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:9-68
-27-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:19-66
-28            </intent-filter>
-29        </activity>
-30    </application>
-31
-32</manifest>
+19        android:theme="@style/AppTheme" >
+19-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:7:7-38
+20        <activity
+20-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:8:5-15:16
+21            android:name="com.sqisland.android.espresso.hello.MainActivity"
+21-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:9:9-37
+22            android:label="@string/app_name" >
+22-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:10:9-41
+23            <intent-filter>
+23-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:11:7-14:23
+24                <action android:name="android.intent.action.MAIN" />
+24-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:9-60
+24-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:12:17-58
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:9-68
+26-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\ExpressoSimple\app\src\main\AndroidManifest.xml:13:19-66
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

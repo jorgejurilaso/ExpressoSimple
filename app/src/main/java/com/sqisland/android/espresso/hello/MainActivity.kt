@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     AppCenter.start(application, "a3887cf8-1d74-48c2-9d6e-063ffbb858ab",
             Analytics::class.java, Crashes::class.java)
+
     setContentView(R.layout.activity_main)
     greetButton = findViewById(R.id.greet_button)
     greetingView = findViewById(R.id.greeting)

@@ -1,4 +1,4 @@
-#Tue Jun 30 15:06:13 PDT 2020
+#Tue Jun 30 16:54:16 PDT 2020
 base.0=F\:\\03-2020-Mis-Clientes\\01-Testing-Espresso\\ExpressoSimple\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

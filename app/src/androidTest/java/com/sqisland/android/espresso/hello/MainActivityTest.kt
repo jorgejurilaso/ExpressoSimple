@@ -6,18 +6,28 @@ import android.support.test.espresso.assertion.ViewAssertions.matches
 import android.support.test.espresso.matcher.ViewMatchers.*
 import android.support.test.rule.ActivityTestRule
 import android.support.test.runner.AndroidJUnit4
+import com.microsoft.appcenter.espresso.Factory
 import org.hamcrest.CoreMatchers.not
-import org.junit.Test
-
-import org.junit.Assert.*
+import org.junit.After
 import org.junit.Rule
+import org.junit.Test
 import org.junit.runner.RunWith
+
 
 @RunWith(AndroidJUnit4::class)
 class MainActivityTest {
+
+  @Rule
+  var reportHelper = Factory.getReportHelper()
+
   @Rule @JvmField
   var activityRule = ActivityTestRule<MainActivity>(
       MainActivity::class.java)
+
+  @After
+  fun TearDown() {
+    reportHelper.label("Stopping App")
+  }
 
   @Test
   fun greet() {

@@ -1,1 +1,2 @@
 com.sqisland.android.espresso.hello.test
+string app_name
