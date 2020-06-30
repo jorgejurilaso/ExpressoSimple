@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sqisland.android.espresso.hello"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:4:3-16:17
+12        android:debuggable="true"
+13        android:icon="@mipmap/ic_launcher"
+13-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:6:7-41
+14        android:label="@string/app_name"
+14-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:5:7-39
+15        android:testOnly="true"
+16        android:theme="@style/AppTheme" >
+16-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:7:7-38
+17        <activity
+17-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:8:5-15:16
+18            android:name="com.sqisland.android.espresso.hello.MainActivity"
+18-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:9:9-37
+19            android:label="@string/app_name" >
+19-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:10:9-41
+20            <intent-filter>
+20-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:11:7-14:23
+21                <action android:name="android.intent.action.MAIN" />
+21-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:12:9-60
+21-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:12:17-58
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:13:9-68
+23-->F:\03-2020-Mis-Clientes\01-Testing-Espresso\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch02\02_11\End\app\src\main\AndroidManifest.xml:13:19-66
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

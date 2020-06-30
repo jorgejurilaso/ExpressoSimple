@@ -1,0 +1,4 @@
+#Tue Jun 30 14:14:03 PDT 2020
+base.0=F\:\\03-2020-Mis-Clientes\\01-Testing-Espresso\\Ex_Files_Android_Espresso_EssT\\Exercise Files\\Ch02\\02_11\\End\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpressoSimple.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpressoSimple.iml" group="ExpressoSimple" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ExpressoSimple/app" />
+    </modules>
+  </component>
+</project>
